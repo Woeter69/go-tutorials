@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.exe
+*.dll
+*.so
+*.o
+*.a
+/*
+# Ignore general binaries
+*.bin
+*.class
+*.pyc
+*.pyo
+
+# Ignore anything in a build folder
+/build/
+/dist/
